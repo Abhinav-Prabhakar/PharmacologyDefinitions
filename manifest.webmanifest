@@ -1,0 +1,68 @@
+{
+  "id": "/PharmacologyDefinitions/",
+  "name": "one·liners — Pharmacology",
+  "short_name": "Pharmacology",
+  "description": "Pharmacology one line at a time: 270 definitions on kinetics, dynamics, drug classes and interactions, with adaptive two-way quizzes and offline mastery tracking.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbfcfc",
+  "theme_color": "#fbfcfc",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/screenshot-home-light.png",
+      "sizes": "1440x1000",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Today, activity and subject mastery — Pharmacology"
+    },
+    {
+      "src": "assets/screenshot-quiz-dark.png",
+      "sizes": "1440x1000",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "A two-way quiz with explanations and live mastery"
+    },
+    {
+      "src": "assets/screenshot-mobile-light.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "one·liners on a phone"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-25",
+  "collection": {
+    "id": "pharmacology",
+    "name": "Pharmacology",
+    "tagline": "Pharmacology, in one line.",
+    "topic": "Pharmacology for nursing and pre-health students",
+    "audience": "Nursing and pre-health students",
+    "level": "intro",
+    "jurisdiction": "US",
+    "disclaimer": "Educational vocabulary only; not medical advice, prescribing guidance, or patient-specific recommendations."
+  },
+  "coverage": {
+    "sections": 2,
+    "subjects": 5,
+    "definitions": 270,
+    "sources": 6
+  },
+  "semesters": [
+    {
+      "id": "core",
+      "label": "Core",
+      "status": "complete",
+      "subjects": [
+        {
+          "id": "pharmacokinetics",
+          "name": "Pharmacokinetics",
+          "shortName": "Pharmacokinetics",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/pharmacokinetics.json",
+          "definitionCount": 52,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "pharmacodynamics",
+          "name": "Pharmacodynamics",
+          "shortName": "Pharmacodynamics",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/pharmacodynamics.json",
+          "definitionCount": 52,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        }
+      ]
+    },
+    {
+      "id": "clinical",
+      "label": "Clinical",
+      "status": "complete",
+      "subjects": [
+        {
+          "id": "drug-classes",
+          "name": "Major Drug Classes",
+          "shortName": "Drug classes",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/drug-classes.json",
+          "definitionCount": 62,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "adverse-effects-and-interactions",
+          "name": "Adverse Effects and Drug Interactions",
+          "shortName": "Adverse effects",
+          "code": "",
+          "courseType": "clinical",
+          "data": "data/subjects/adverse-effects-and-interactions.json",
+          "definitionCount": 52,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "special-populations",
+          "name": "Special Populations",
+          "shortName": "Special populations",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/special-populations.json",
+          "definitionCount": 52,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        }
+      ]
+    }
+  ]
+}
